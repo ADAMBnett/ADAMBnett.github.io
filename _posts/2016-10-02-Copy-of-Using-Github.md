@@ -1,13 +1,11 @@
 ---
-title: Copy of Using Github
+title: Blog 1
 layout: post
 author: adam.barnett
 permalink: /copy-of-using-github/
 source-id: 1cQ97CIZyWbuxt-_d18skhF4tQz9pQc0LYKXjCaNeBoM
 published: true
 ---
-ssssss
-
 <table>
   <tr>
     <td>Title</td>
@@ -49,7 +47,7 @@ ssssss
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I need to work on note taking as I was often asking for a repeat of instructions. I also need to improve the quality of my notes as some of them were unclear. They also were not as reliable as I would have hoped, there were many cases where my notes were incorrect. I also am distracting to other people which not only will hinder my own progress but other people's progress also. This is unfair for them and I will try to make sure this habit does not continue</td>
+    <td>I need to work on note taking as I was often asking for a repeat of instructions. I also need to improve the quality of my notes as some of them were unclear. They also were not as reliable as I would have hoped, there were many cases where my notes were incorrect.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
